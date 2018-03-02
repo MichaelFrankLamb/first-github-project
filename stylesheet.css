@@ -25,6 +25,14 @@ a:hover{
   padding: 25px 130px;
   height: 30%;
   margin: -1% -8% 0% -9%;
+  border-bottom: 2px solid black;
+}
+
+.background{
+  opacity: 0.1;
+  position: absolute;
+  top: 300px;
+  left: 560px;
 }
 
 .top{
@@ -36,14 +44,16 @@ a:hover{
   top: -721px;
   float: right;
   margin-right: auto;
-  padding: 28px 4px 134px 27px;
+  padding: 28px 4px 65px 27px;
+  text-align: center;
 }
 
 .home_image2{
   top: -691px;
-  float: right;
+  float: left;
   padding: 5px 2px 2px 6px;
   clear: both;
+  text-align: center;
 }
 
 .aboutus{
