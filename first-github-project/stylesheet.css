@@ -3,7 +3,7 @@ head{
 }
 
 body{
-      padding: 0px 107px 18px 121px;
+      padding: 0px 100px 5px 100px;
 }
 
 a{
@@ -36,7 +36,7 @@ a:hover{
   top: -721px;
   float: right;
   margin-right: auto;
-  padding: 28px 4px 134px 27px;
+  padding: 43px 2px 113px 6px;
 }
 
 .home_image2{
@@ -44,10 +44,6 @@ a:hover{
   float: right;
   padding: 5px 2px 2px 6px;
   clear: both;
-}
-
-.aboutus{
-  padding: 20px 79px 30px;
 }
 
 
