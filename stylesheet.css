@@ -81,7 +81,7 @@ a:hover{
 }
 
 .Garfield_BackGrnd{
-  display: inline;
+  display: inline-block;
   position: absolute;
   opacity: 0.4;
   top: 130px;
@@ -127,7 +127,7 @@ a:hover{
   padding: 15px 0px 30px 30px;
   text-align: center;
   background-color: rgba(123, 92, 30,0.5);
-  display: inline-block;
+  display: block;
   float: left; 
 }
 
