@@ -1,0 +1,502 @@
+/* --Start Shared-- */
+div
+{
+  margin: auto;
+  position: relative;
+}
+h1
+{
+  color: black;
+  position: absolute;
+}
+p
+{
+  color: rgba(123,92,30,0.5);
+  position: absolute;
+}
+
+/* --End Shared-- */
+
+/* --Start Section 1-- */
+
+/* --Start Div-- */
+.headerSection
+{
+  width: 1000px;
+  height: 100px;
+  top: auto;
+  left: auto;
+  border: 3px solid black;
+	background-color: rgba(224,81,2,0.36);
+}
+/* --End Div-- */
+
+/* --Start H1-- */
+.headerCompanyName
+{
+  font-size: 30px;
+  top: 10px;
+  left: 200px;
+}
+/* --End H1-- */
+
+/* --Start p-- */
+.headerFund
+{
+  font-size: 25px;
+  top: 15px;
+  left: 650px;
+}
+.headerGallery
+{
+  font-size: 25px;
+  top: 15px;
+  left: 800px;
+  position: absolute;
+}
+.headerBlog
+{
+  font-size: 25px;
+  top: 15px;
+  left: 900px;
+  position: absolute;
+}
+.headerLogo
+{
+  top: -10px;
+  left: 100px;
+}
+p a:link
+{
+  color: rgba(123,92,30,0.5);
+  text-decoration: none;
+}
+p a:hover
+{
+  color: rgba(244,216,197,0.5);
+}
+/* --End P-- */
+
+/* --End Section 1-- */
+/* --Start Section 2-- */
+
+/* --Start Div-- */
+.newsletterSection
+{
+  width: 1000px;
+  height: 525px;
+  top: 0px;
+  left: auto;
+  border-left: 3px solid black;
+  border-right: 3px solid black;
+	background-color: rgba(244,216,197,0.5);
+}
+.nLFNameSection
+{
+  width: 500px;
+  height: 50px;
+  top: 215px;
+  left: auto;
+  border: 2px solid rgba(224,81,2,0.36);
+	background-color: rgba(244,216,197,0.5);
+}
+.nLLNameSection
+{
+  width: 500px;
+  height: 50px;
+  top: 240px;
+  left: auto;
+  border: 2px solid rgba(224,81,2,0.36);
+	background-color: rgba(244,216,197,0.5);
+}
+.nLEmailSection
+{
+  width: 500px;
+  height: 50px;
+  top: 265px;
+  left: auto;
+  border: 2px solid rgba(224,81,2,0.36);
+	background-color: rgba(244,216,197,0.5);
+}
+
+/* --End Div-- */
+
+/* --Start H1-- */
+.headerNewsletter
+{
+  font-size: 30px;
+  top: 10px;
+  left: 314.31px;
+}
+/* --End H1-- */
+
+/* --Start p-- */
+.newsletterLineOne
+{
+  font-size: 25px;
+  top: 40px;
+  left: 162.31px;
+}
+.newsletterLineTwo
+{
+  font-size: 25px;
+  top: 145px;
+  left: 116px;
+  position: absolute;
+}
+.newsletterFName
+{
+  font-size: 25px;
+  top: 205px;
+  left: 260px;
+  position: absolute;
+}
+.newsletterLName
+{
+  font-size: 25px;
+  top: 280px;
+  left: 260px;
+  position: absolute;
+}
+.newsletterEmail
+{
+  font-size: 25px;
+  top: 365px;
+  left: 260px;
+  position: absolute;
+}
+.newsletterLogo
+{
+  top: 65px;
+  left: 450px;
+}
+.newsletterCatTop
+{
+  top: -20px;
+  left: 825px;
+}
+.newsletterCatSide
+{
+  top: 250px;
+  left: 0px;
+}
+.nLButton a:link
+{
+  height: 30px;
+  width: 200px;
+  top: 435px;
+  left: 400px;
+  position: absolute;
+  background-color: rgba(244,216,197,0.5);
+  color: rgba(123,92,30,0.5);
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  border: 2px solid rgba(224,81,2,0.36);
+}
+.nLButton a:hover {
+    background-color: rgba(224,81,2,0.36);
+}
+
+/* --End P-- */
+
+/* --End Section 2-- */
+/* --Start Section 3-- */
+
+/* --Start Div-- */
+.hiringSection
+{
+  width: 1000px;
+  height: 385px;
+  top: 360px;
+  left: -4px;
+  border-top: 3px solid black;
+  border-left: 3px solid black;
+  border-right: 3px solid black;
+	background-color: rgba(244,216,197,0.5);
+}
+/* --End Div-- */
+
+/* --Start h1-- */
+.headerHiring
+{
+  font-size: 30px;
+  top: 10px;
+  left: 410.705px;
+}
+/* --End h1-- */
+
+/* --Start p-- */
+.hiringLineOne
+{
+  font-size: 25px;
+  top: 50px;
+  left: 209.765px;
+}
+.hiringLineTwo
+{
+  font-size: 25px;
+  top: 100px;
+  left: 318.42px;
+  position: absolute;
+}
+.hiringLineThree
+{
+  font-size: 25px;
+  top: 150px;
+  left: 322.28px;
+  position: absolute;
+}
+.hiringLineFour
+{
+  font-size: 25px;
+  top: 200px;
+  left: 436.11px;
+  position: absolute;
+}
+.hButton a:link
+{
+  height: 30px;
+  width: 200px;
+  top: 300px;
+  left: 400px;
+  position: absolute;
+  background-color: rgba(244,216,197,0.5);
+  color: rgba(123,92,30,0.5);
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  border: 2px solid rgba(224,81,2,0.36);
+}
+.hButton a:hover {
+    background-color: rgba(224,81,2,0.36);
+}
+.hiringCat
+{
+  top: 100px;
+  left: 650px;
+}
+/* --End p-- */
+
+/* --End Section 3-- */
+/* --Start Section 4-- */
+
+/* --Start Div-- */
+.finalSection
+{
+  width: 1000px;
+  height: 635px;
+  top: 360px;
+  left: -4px;
+  border: 3px solid black;
+	background-color: rgba(244,216,197,0.5);
+}
+.nameSection
+{
+  width: 200px;
+  height: 25px;
+  top: 105px;
+  left: 700px;
+	background-color: rgba(244,216,197,0.5);
+  position: absolute;
+  resize: none;
+}
+.emailSection
+{
+  width: 200px;
+  height: 25px;
+  top: 170px;
+  left: 700px;
+	background-color: rgba(244,216,197,0.5);
+  position: absolute;
+  resize: none;
+}
+.messageSection
+{
+  width: 250px;
+  height: 125px;
+  top: 235px;
+  left: 700px;
+	background-color: rgba(244,216,197,0.5);
+  position: absolute;
+  resize: none;
+}
+.detailOne
+{
+  width: 3px;
+  height: 150px;
+  top: 25px;
+  left: -167px;
+	background-color: rgba(123,92,30,0.5);
+}
+.detailTwo
+{
+  width: 3px;
+  height: 150px;
+  top: -125px;
+  left: 167px;
+	background-color: rgba(123,92,30,0.5);
+}
+.detailThree
+{
+  width: 300px;
+  height: 3px;
+  top: 90px;
+  left: 325px;
+	background-color: rgba(123,92,30,0.5);
+}
+.detailFour
+{
+  width: 900px;
+  height: 3px;
+  top: 270px;
+  left: auto;
+	background-color: rgba(123,92,30,0.5);
+}
+/* --End Div-- */
+
+/* --Start h1-- */
+.socialMedia
+{
+  font-size: 30px;
+  top: 15px;
+  left: 83.58px;
+}
+.general
+{
+  font-size: 30px;
+  top: 10px;
+  left: 447.845px;
+}
+.mailUs
+{
+  font-size: 30px;
+  top: 15px;
+  left: 782.08px;
+}
+/* --End h1-- */
+
+/* --Start p-- */
+.facebook
+{
+  font-size: 25px;
+  top: 65px;
+  left: 70px;
+  position: absolute;
+}
+.instagram
+{
+  font-size: 25px;
+  top: 105px;
+  left: 61.955px;
+  position: absolute;
+}
+.twitter
+{
+  font-size: 25px;
+  top: 145px;
+  left: 80.89px;
+  position: absolute;
+}
+.snapchat
+{
+  font-size: 25px;
+  top: 185px;
+  left: 99.845px;
+  position: absolute;
+}
+.building
+{
+  font-size: 25px;
+  top: 65px;
+  left: 445.67px;
+  position: absolute;
+}
+.street
+{
+  font-size: 25px;
+  top: 105px;
+  left: 431.435px;
+  position: absolute;
+}
+.cityStateZip
+{
+  font-size: 25px;
+  top: 145px;
+  left: 408.53px;
+  position: absolute;
+}
+.country
+{
+  font-size: 25px;
+  top: 185px;
+  left: 432.485px;
+  position: absolute;
+}
+.finalName
+{
+  font-size: 25px;
+  top: 50px;
+  left: 700px;
+  position: absolute;
+}
+.finalEmail
+{
+  font-size: 25px;
+  top: 115px;
+  left: 700px;
+  position: absolute;
+}
+.finalMessage
+{
+  font-size: 25px;
+  top: 180px;
+  left: 700px;
+  position: absolute;
+}
+.sButton a:link
+{
+  height: 30px;
+  width: 200px;
+  top: 405px;
+  left: 720px;
+  position: absolute;
+  background-color: rgba(244,216,197,0.5);
+  color: rgba(123,92,30,0.5);
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  border: 2px solid rgba(224,81,2,0.36);
+}
+.sButton a:hover
+{
+    background-color: rgba(224,81,2,0.36);
+}
+.facebookLogo
+{
+  top: 60px;
+  left: 0px;
+}
+.instagramLogo
+{
+  top: 115px;
+  left: 20px;
+}
+.twitterLogo
+{
+  top: 155px;
+  left: 20px;
+}
+.snapchatLogo
+{
+  top: 190px;
+  left: 20px;
+}
+.finalCat
+{
+  top: 360px;
+  left: 85px;
+}
+/* --End p-- */
+
+/* --End Section 4-- */

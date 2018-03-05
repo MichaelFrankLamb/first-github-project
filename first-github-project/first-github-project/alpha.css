@@ -1,0 +1,344 @@
+/* Start Containers */
+.outsideBorder
+{
+ height: 1000px;
+
+ margin: 0 auto;
+
+ background-color: black;
+
+ position: relative;
+}
+.insideBorder
+{
+ height: 600px;
+
+ width: 800px;
+
+ top: 50px;
+
+ left: 435.135px;
+
+ margin: 0 auto;
+
+ background-color: darkgrey;
+
+ position: absolute;
+}
+.contactBorder
+{
+  height: 20px;
+
+  width:230px;
+
+  top: 65px;
+
+  left: 160px;
+
+  font-size: 18px;
+
+  background-color: lightgrey;
+
+  position: absolute;
+}
+.geBorder
+{
+  height: 20px;
+
+  width:230px;
+
+  top: 65px;
+
+  left: 615px;
+
+  font-size: 18px;
+
+  background-color: lightgrey;
+
+  position: absolute;
+}
+.nameTextBorder
+{
+  height: 25px;
+
+  width:230px;
+
+  top: 110px;
+
+  left: 615px;
+
+  background-color: white;
+
+  position: absolute;
+}
+.emailTextBorder
+{
+  height: 25px;
+
+  width:230px;
+
+  top: 160px;
+
+  left: 615px;
+
+  background-color: white;
+
+  position: absolute;
+}
+.noeTextBorder
+{
+  height: 25px;
+
+  width:230px;
+
+  top: 210px;
+
+  left: 615px;
+
+  background-color: white;
+
+  position: absolute;
+}
+.messageTextBorder
+{
+  height: 175px;
+
+  width:230px;
+
+  top: 260px;
+
+  left: 615px;
+
+  background-color: white;
+
+  position: absolute;
+}
+.underlineBorder
+{
+height: 3px;
+
+width:250px;
+
+top: 465px;
+
+left: 605px;
+
+background-color: lightgrey;
+
+position: absolute;
+}
+.underlineFooterBorder
+{
+height: 2px;
+
+width:775px;
+
+top: 600px;
+
+left: 160px;
+
+background-color: grey;
+
+position: absolute;
+}
+/* End Containers */
+
+/* Start p */
+.companyName1
+{
+ top:  60px;
+
+ left: 195px;
+
+ position: absolute;
+
+ font-size: 30px;
+}
+.nameText
+{
+ top:  65px;
+
+ left: 615px;
+
+ position: absolute;
+
+ font-size: 20px;
+}
+.emailText
+{
+ top:  115px;
+
+ left: 615px;
+
+ position: absolute;
+
+ font-size: 20px;
+}
+.noeText
+{
+ top:  165px;
+
+ left: 615px;
+
+ position: absolute;
+
+ font-size: 20px;
+}
+.messageText
+{
+ top:  215px;
+
+ left: 615px;
+
+ position: absolute;
+
+ font-size: 20px;
+}
+.T
+{
+ top:  100px;
+
+ left: 155px;
+
+ position: absolute;
+
+ font-size: 30px;
+}
+.phoneNumber
+{
+ top:  115px;
+
+ left: 195px;
+
+ position: absolute;
+
+ font-size: 30px;
+}
+.E
+{
+ top:  135px;
+
+ left: 155px;
+
+ position: absolute;
+
+ font-size: 30px;
+}
+.email
+{
+ top:  150px;
+
+ left: 195px;
+
+ position: absolute;
+
+ font-size: 20px;
+}
+.F
+{
+ top:  170px;
+
+ left: 155px;
+
+ position: absolute;
+
+ font-size: 30px;
+}
+.faxNumber
+{
+ top:  185px;
+
+ left: 195px;
+
+ position: absolute;
+
+ font-size: 20px;
+}
+.twitterHandle
+{
+ top:  225px;
+
+ left: 200px;
+
+ position: absolute;
+
+ font-size: 25px;
+}
+.facebookHandle
+{
+ top:  260px;
+
+ left: 200px;
+
+ position: absolute;
+
+ font-size: 25px;
+}
+.companyBuilding
+{
+ top:  325px;
+
+ left: 195px;
+
+ position: absolute;
+
+ font-size: 20px;
+}
+.companyStreet
+{
+ top:  350px;
+
+ left: 195px;
+
+ position: absolute;
+
+ font-size: 20px;
+}
+.companyCityState
+{
+ top:  375px;
+
+ left: 195px;
+
+ position: absolute;
+
+ font-size: 20px;
+}
+.zip
+{
+ top:  400px;
+
+ left: 195px;
+
+ position: absolute;
+
+ font-size: 20px;
+}
+/* End p */
+
+/* Start Images */
+.twitterLogo
+{
+ top:  190px;
+
+ left: 145px;
+
+ position: absolute;
+}
+.facebookLogo
+{
+ top:  260px;
+
+ left: 150px;
+
+ position: absolute;
+}
+.genericLogo
+{
+ top:  700px;
+
+ left: 155px;
+
+ position: absolute;
+}
+/* End Images */
