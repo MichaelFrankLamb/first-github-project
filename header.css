@@ -1,42 +1,74 @@
-<!DOCTYPE html>
-    <head>
+head{
+      padding: 0px 0px 5px 0px;
+}
 
-      <link href="/Users/foreverautumn/Desktop/WebDevelopment/Month 1/first-github-project/header/header.css"  rel="stylesheet">
-      <link href="https://fonts.googleapis.com/css?family=Indie+Flower" rel="stylesheet">
-      <link href="https://fonts.googleapis.com/css?family=Cabin" rel="stylesheet">
-    </head>
+a{
+  text-decoration:none;
+  color:rgb(92, 158, 165);
+}
 
-    <body>
+a:hover{
+  color: rgb(227, 104, 90);
+  text-shadow: 2px 2px rgba(250,250,250, .5);
+}
 
-      <title>Home</title>
+body{
+      padding: 0px 107px 18px 121px;
+      background-color:rgba(244, 216, 197,0.5);
+      width: 100%;
+}
 
-      <div class="header">
-          <div class="top">
-            <div class="Garfield">
-                <h1>Garfield Foundation</h1>
-            </div>
-          </div>
+.header{
+  text-align: left;
+  background-color: rgba(216, 119, 44,0.6);
+  padding: 25px 305px;
+  height: 30%;
+  margin: -1% -8% 0% -9%;
+  border-bottom: 2px solid black;
+  transition-property: width, height, background-color;
+  transition-duration: 1s;
+}
 
-          <!-- links are below-->
+.header:hover{
+  background-color: rgba(123, 92, 30,0.5);
+}
 
-              <div class="nav_links">
-                <h2><a href="#" >Blog</a></h2>
-              </div>
+.nav_links:hover{
+  text-shadow: 2px 2px rgb(0,20,0,);
+  font-size: 20px;
+}
 
-              <div class="nav_links">
-                  <h2><a href="#" >Gallery</a></h2>
-                </div>
+.top{
+  display: inline-block;
+  color:rgb(92, 158, 165);
+  text-shadow: 2px 2px rgba(250,250,250, .2);
+}
 
-                <div class="nav_links">
-                  <h2><a href="#" >Contact</a></h2>
-                </div>
+.Garfield{
+  text-align: center;
+  padding: 0px 15px 0px 15px;
+  font-family: 'Indie Flower', cursive;
+}
 
-                <div class="nav_links">
-                  <h2><a href="#" >Go Fund Us!</a></h2>
-                </div>
-              </div>
 
-              <div class="collar">
-                  <img src="/Users/foreverautumn/Desktop/WebDevelopment/Month 1/first-github-project/first-github-project/images/cat2.png" style="width: 15%"; alt="fatcat">
-            </div>
-</body>
+.nav_links{
+  text-align: right;
+  float: right;
+  padding: 13px 30px 0px 50px;
+  text-shadow: 2px 2px rgba(250,250,250, .2);
+  transition-property: width, height, background-color;
+  transition-duration: 1s;
+}
+
+.beginning_header{
+  color: grey;
+  text-shadow: 2px 2px 0px rgba(250,250,250,5);
+}
+
+.collar{
+  position: relative;
+  top: -115px;
+  left: 100px;
+  display: inline-block;
+
+}
