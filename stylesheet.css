@@ -1,180 +1,177 @@
-<<<<<<< Updated upstream
-=======
 head{
-      padding: 0px 0px 5px 0px;
+  padding: 0px 0px 5px 0px;
 }
 
 body{
-      padding: 0px 107px 18px 121px;
-      background-color:rgba(244, 216, 197,0.5);
-      width: 100%;
+  padding: 0px 107px 18px 121px;
+  background-color:rgba(244, 216, 197,0.5);
+  width: 100%;
 }
 
 a{
-  text-decoration:none;
-  color:rgb(92, 158, 165);
+text-decoration:none;
+color:rgb(92, 158, 165);
 
 }
 
 a:hover{
-  color: rgb(227, 104, 90);
-  text-shadow: 2px 2px rgba(250,250,250, .5);
+color: rgb(227, 104, 90);
+text-shadow: 2px 2px rgba(250,250,250, .5);
 }
 
 .header{
-  text-align: left;
-  background-color: rgba(216, 119, 44,0.6);
-  padding: 25px 305px;
-  height: 30%;
-  margin: -1% -8% 0% -9%;
-  border-bottom: 2px solid black;
+text-align: left;
+background-color: rgba(216, 119, 44,0.6);
+padding: 25px 305px;
+height: 30%;
+margin: -1% -8% 0% -9%;
+border-bottom: 2px solid black;
 }
 
 .background{
-  opacity: 0.05;
-  position: absolute;
-  top: 300px;
-  left: 435px;
+opacity: 0.05;
+position: absolute;
+top: 300px;
+left: 435px;
 }
 
 .background-color{
-  opacity: 0.07;
-  position: absolute;
-  top: 0px;
-  left: 0px;
+opacity: 0.07;
+position: absolute;
+top: 0px;
+left: 0px;
 }
 
 .beginning_header{
-  color: grey;
-  text-shadow: 2px 2px 0px rgba(250,250,250,5);
+color: grey;
+text-shadow: 2px 2px 0px rgba(250,250,250,5);
 }
 
 
 .collar{
-  position: relative;
-  top: -115px;
-  left: 100px;
-  display: inline-block;
+position: relative;
+top: -115px;
+left: 100px;
+display: inline-block;
 
 }
 
 .Beginning{
-  text-align: center;
-  padding: 25px 0px 2px 30px;
-  width: 46%;
-  position: relative;
-  left: 295px;
-  top: -130px;
+text-align: center;
+padding: 25px 0px 2px 30px;
+width: 46%;
+position: relative;
+left: 295px;
+top: -130px;
 }
 
 .top{
-  display: inline-block;
-  color:rgb(92, 158, 165);
-  text-shadow: 2px 2px rgba(250,250,250, .2);
+display: inline-block;
+color:rgb(92, 158, 165);
+text-shadow: 2px 2px rgba(250,250,250, .2);
 }
 
 .home_image{
-  top: 100px;
-  float: left;
-  padding: 5px 2px 2px 6px;
-  clear: both;
-  text-align: center;
-  position: relative;
+top: 100px;
+float: left;
+padding: 5px 2px 2px 6px;
+clear: both;
+text-align: center;
+position: relative;
 }
 
 .Garfield_BackGrnd{
-  display: inline-block;
-  position: absolute;
-  opacity: 0.4;
-  top: 130px;
-  width: 130000px;
-  padding: 44px 52px 68px -487px;
-  margin: 1px -333px;
+display: inline-block;
+position: absolute;
+opacity: 0.4;
+top: 130px;
+width: 130000px;
+padding: 44px 52px 68px -487px;
+margin: 1px -333px;
 }
 
 
 .Garfield{
-  text-align: center;
-  padding: 0px 15px 0px 35px;
-  font-family: 'Indie Flower', cursive;
+text-align: center;
+padding: 0px 15px 0px 35px;
+font-family: 'Indie Flower', cursive;
 }
 
 .aboutus{
-  padding: 30px 79px 30px;
-  font-family: 'Cabin', sans-serif;
+padding: 30px 79px 30px;
+font-family: 'Cabin', sans-serif;
 }
 
 
 .nav_links{
-  text-align: right;
-  float: right;
-  padding: 13px 30px 0px 50px;
-  transition-property: width, height, background-color;
-  transition-duration: 1s;
-  text-shadow: 2px 2px rgba(250,250,250, .2);
+text-align: right;
+float: right;
+padding: 13px 30px 0px 50px;
+transition-property: width, height, background-color;
+transition-duration: 1s;
+text-shadow: 2px 2px rgba(250,250,250, .2);
 }
 
 
 .word_container{
-  box-sizing: border-box;
-  display: inline-block;
-  position: relative;
-  top: -530px;
-  width: 2000px;
-  left: -208px;
+box-sizing: border-box;
+display: inline-block;
+position: relative;
+top: -530px;
+width: 2000px;
+left: -208px;
 }
 
 .Paragraphs{
-  max-width: 45%;
-  padding: 15px 0px 30px 30px;
-  text-align: center;
-  background-color: rgba(123, 92, 30,0.5);
-  display: block;
-  float: left; 
+max-width: 45%;
+padding: 15px 0px 30px 30px;
+text-align: center;
+background-color: rgba(123, 92, 30,0.5);
+display: block;
+float: left; 
 }
 
 .mission_para{
-  display: inline-block;
-  position: relative;
-  top: 155px;
-  width: 685px;
-  left: 60px;
+display: inline-block;
+position: relative;
+top: 155px;
+width: 685px;
+left: 60px;
 }
 
 .aboutus_para{
-  display: inline-block;
-  position: relative;
-  top: 190px;
-  width: 685px;
-  left: 269px;
-  text-align: center;
+display: inline-block;
+position: relative;
+top: 190px;
+width: 685px;
+left: 269px;
+text-align: center;
 }
 
 .hm_list{
-  width: 46%;
-  display: inline-block;
-  background-color: rgba(224, 81, 2, 0.36) ;
-  padding: 15px 0px 11px 30px;
+width: 46%;
+display: inline-block;
+background-color: rgba(224, 81, 2, 0.36) ;
+padding: 15px 0px 11px 30px;
 }
 
 div.gallery {
-  margin: 5px;
-  border: 1px solid #ccc;
-  float: left;
-  width: 180px;
+margin: 5px;
+border: 1px solid #ccc;
+float: left;
+width: 180px;
 }
 
 div.gallery:hover {
-  border: 1px solid #777;
+border: 1px solid #777;
 }
 
 div.gallery img {
-  width: 100%;
-  height: auto;
+width: 100%;
+height: auto;
 }
 
 div.desc {
-  padding: 15px;
-  text-align: center;
+padding: 15px;
+text-align: center;
 }
->>>>>>> Stashed changes
